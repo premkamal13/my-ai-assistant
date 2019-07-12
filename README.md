@@ -13,7 +13,7 @@ Setup
 - Put that app-id in config\_writer.py
 - Run *python3.6 config\_writer.py*
 
-*The API key has a limit of 2000 hits per day. So, I need to request you to please use your own app-id. It's fairly simple and just a few clicks here: http://developer.wolframalpha.com.*
+*The API key has a limit of 2000 hits per day. So, I have to request you to please use your own app-id. It's fairly simple and just a few clicks here: http://developer.wolframalpha.com.*
 
 Running the main program
 - Navigate to src
