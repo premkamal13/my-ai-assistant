@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# my-ai-assistant project
+.gitignore
+.config
+.config_writer.py
