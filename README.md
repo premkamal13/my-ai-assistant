@@ -1,6 +1,6 @@
 # __My Virtual Assistant__
 
-A Python based virtual assistant Psy that interacts with you and answers mathematical and GK queries
+A vocal virtual assistant (Akshara) who answers mathematical and GK questions asked
 
 # __Screenshots__
 
