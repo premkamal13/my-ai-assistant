@@ -32,7 +32,7 @@ class MyFrame(wx.Frame):
         try:
             try:
                 # search in wolframalpha
-                app_id = "9GUW84-976QLUJHXP"
+                app_id = "DEMO"
                 client = wolframalpha.Client(app_id)
                 result = client.query(query)
                 answer = next(result.results).text

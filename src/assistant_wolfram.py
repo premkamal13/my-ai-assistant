@@ -1,7 +1,7 @@
 import wolframalpha as wa
 
 input = input("Question: ")
-app_id = "9GUW84-976QLUJHXP"
+app_id = "DEMO"
 client = wa.Client(app_id)
 
 result = client.query(input)
