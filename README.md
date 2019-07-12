@@ -1,10 +1,10 @@
-# __my-ai-assistant__
+# __My Virtual Assistant__
+
 A Python based virtual assistant Psy that interacts with you and answers mathematical and GK queries
 
 # __Screenshots__
-![Queries 1, 2](https://github.com/premkamal13/my-ai-assistant/blob/master/images/query_1_2.png)
-![Queries 3, 4](https://github.com/premkamal13/my-ai-assistant/blob/master/images/query_3_4.png)
 
+<img src="https://github.com/premkamal13/my-ai-assistant/blob/master/images/query_1_2.png" width="320" height="400">   <img src="https://github.com/premkamal13/my-ai-assistant/blob/master/images/query_3_4.png" width="520" height="400">
 
 # __How to run__
 
